@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **yuvrajsingh7272/yuvrajsingh7272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
